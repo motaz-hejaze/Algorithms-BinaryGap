@@ -4,3 +4,5 @@
 
 - Reverse Array
 
+- OddOccurrencesInArray
+
