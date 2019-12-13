@@ -1,2 +1,6 @@
-# Algorithms-BinaryGap
-A solution for binarygap problem ...
+ Algorithms
+
+- BinaryGap
+
+- Reverse Array
+
